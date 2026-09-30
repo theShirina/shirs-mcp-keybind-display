@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Shir's MCP Keybind Display
+## Notes: A standalone display of current Microbot Control Panel key bindings.
+## Author: Shirina
+## Version: 0.1.0
+## Dependencies: MicrobotControlPanel
+## SavedVariables: ShirsMCPKeybindDisplayDB
+
+Core.lua
+UI.lua
